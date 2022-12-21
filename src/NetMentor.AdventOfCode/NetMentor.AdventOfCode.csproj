@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <RootNamespace>Netmentor.AdventOfCode</RootNamespace>
+        <Authors>Ivan Abad</Authors>
+        <Company>NetMentor</Company>
+        <Version>0.1</Version>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/netmentorLtd/AdventOfCode</RepositoryUrl>
+        <Description>Library to help with advent of code challenges</Description>
+    </PropertyGroup>
+</Project>
