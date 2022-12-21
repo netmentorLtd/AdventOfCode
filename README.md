@@ -1,4 +1,4 @@
-# NeteMentor.AdventOfCode
+# NetMentor.AdventOfCode
 
 
 Library to help you on the execution of advent of code challenges using C#
